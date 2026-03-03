@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Return of the Mack",
+  "base_artist": "Mark Morrison",
+  "createdAt": "2026-03-03T11:08:42.650072Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Return of the Mack",
+      "artist": "Various",
+      "has_synced": false,
+      "path": "select/01_Return_of_the_Mack_Various.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Return Of The Mack",
+      "artist": "Mark Morrison",
+      "has_synced": true,
+      "path": "select/02_Return_Of_The_Mack_Mark_Morrison.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Return of the Mack",
+      "artist": "Mark Morrison",
+      "has_synced": true,
+      "path": "select/03_Return_of_the_Mack_Mark_Morrison.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Return Of The Mack",
+      "artist": "VA",
+      "has_synced": true,
+      "path": "select/04_Return_Of_The_Mack_VA.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Return of the Mack",
+      "artist": "Various Artists",
+      "has_synced": false,
+      "path": "select/05_Return_of_the_Mack_Various_Artists.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Return Of The Mack",
+      "artist": "Verschiedene",
+      "has_synced": false,
+      "path": "select/06_Return_Of_The_Mack_Verschiedene.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Return of the Mack",
+      "artist": "Various Artists",
+      "has_synced": true,
+      "path": "select/07_Return_of_the_Mack_Various_Artists.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Return Of The Mack",
+      "artist": "Mack",
+      "has_synced": false,
+      "path": "select/08_Return_Of_The_Mack_Mack.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Return Of The Mack",
+      "artist": "Mark Morrison",
+      "has_synced": true,
+      "path": "select/09_Return_Of_The_Mack_Mark_Morrison.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Return of the Mack",
+      "artist": "Mark Morrison",
+      "has_synced": true,
+      "path": "select/10_Return_of_the_Mack_Mark_Morrison.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Return Of The Mack",
+      "artist": "Mark Morrison",
+      "has_synced": false,
+      "path": "select/pl_01_Return_Of_The_Mack_Mark_Morrison.txt"
+    }
+  ]
+}
